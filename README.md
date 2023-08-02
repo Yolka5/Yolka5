@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oOrangeFox12363&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeFox12363&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yolka5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
